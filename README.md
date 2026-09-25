@@ -1,2 +1,5 @@
 # temp-schedule-barrage
-Barrage plain-language listing of the high-low-low temp schedule
+
+Plain-language Barrage listing of the high-low-low temperature schedule. Skill file lives in a separate repo: https://github.com/fitzyracing1/temp-schedule
+
+See `BARRAGE.md`.
